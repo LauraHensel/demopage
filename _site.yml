@@ -1,0 +1,9 @@
+name: "Laura's Demopage"  
+author: "Laura Hensel"  
+output_dir: "docs"  
+output:  
+  html_document:  
+    self_contained: no  
+    theme: flatly  
+navbar:  
+  title: "Demo webpage"
