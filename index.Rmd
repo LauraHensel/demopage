@@ -17,4 +17,4 @@ My research interests are:
       * Movement
 * Social Robotics
 
-![Furhat, the robotic head used by our lab] (demopage\images\Furhat.jpg)
+![Furhat, the robotic head used by our lab] (images\Furhat.jpg)
