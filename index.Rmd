@@ -2,6 +2,19 @@
 title: "Demo Webpage"
 ---
 
+
+###Laura Hensel
+
 I am a postgraduate student in the University of Glasgow's
-[Institute of Neuroscience and Psychology](http://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/).
-I work with [Dr. Rachael Jack](https://www.gla.ac.uk/schools/psychology/staff/rachaeljack/)
+[Institute of Neuroscience and Psychology](http://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/). I am currently doing my MSc in Psychological Research Methods.
+I work with [Dr. Rachael Jack](https://www.gla.ac.uk/schools/psychology/staff/rachaeljack/) on establishing a syntax for facial expressions.
+
+My research interests are:
+
+* Human Facial signals comprising the following
+      * Morphology
+      * Complexion and
+      * Movement
+* Social Robotics
+
+![Furhat, the robotic head used by our lab] (demopage\images\Furhat.jpg)
