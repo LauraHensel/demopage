@@ -1,20 +1,30 @@
 ---
-title: "Demo Webpage"
+title: "About Me"
+output:
+  html_document:
+    toc: FALSE
 ---
 
-
-###Laura Hensel
-
 I am a postgraduate student in the University of Glasgow's
-[Institute of Neuroscience and Psychology](http://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/). I am currently doing my MSc in Psychological Research Methods.
+[Institute of Neuroscience and Psychology](http://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/). Here, I am currently completing my M.Sc. in Psychological Research Methods.
 I work with [Dr. Rachael Jack](https://www.gla.ac.uk/schools/psychology/staff/rachaeljack/) on establishing a syntax for facial expressions.
 
-My research interests are:
+<img src="images/Laura_picture.png" alt="LAURA" style="float:right;
+margin: 20px 20px;">
 
-* Human Facial signals comprising the following
-      * Morphology
-      * Complexion and
-      * Movement
-* Social Robotics
 
-![Furhat, the robotic head used by our lab] (images\Furhat.jpg)
+
+
+### How I Got Here
+
+I was born in Germany and lived there until I was 16. At that time I applied to and got into the [United World College Costa Rica](http://en.uwccostarica.org/). During my two years in Costa Rica, I was involved in a range of activities including:
+
+<ul>
+  <li>Leading and directing a musical which can be viewed [here](https://vimeo.com/38733243)</li>
+  <li>Clowning (as Patch Adams) in a Rehabilitation Centre</li>
+  <li>Spending a week in a Bri Bri village (indiginous people of Costa Rica)</li>
+  <li>Cleaning and improving a slum in San José</li>
+</ul>
+
+
+

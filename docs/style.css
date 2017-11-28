@@ -1,0 +1,63 @@
+
+p {
+  font-size: 1.5em;
+  font-family: "Arial";
+}
+
+
+th {
+  font-size: 1em;
+  font-family: "Georgia";
+}
+
+td {
+  font-family: "Arial";
+}
+
+h1, h2, h3 {
+  text-align: center;
+  font-family: "Georgia";
+}
+
+.list-group-item {
+  font-size: 1.5em;
+  font-family: "Georgia";
+}
+
+.list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover {
+background-color: rgb(128,0,0);
+}
+
+a:link {
+  color: rgb(0,128,0);
+}
+
+a:visited {
+  color:rgb(137, 15, 87);
+}
+
+a:hover {
+  color:red;
+}
+
+.navbar-default .navbar-brand {
+  font-size: 2em;
+  font-family: "Georgia";
+  color: rgb(128,0,0);}
+                        
+.navbar .nav > li > a, .navbar .nav > li > a:link {
+color:          rgb(128,0,0);
+}
+
+.navbar .nav {
+color:          red;                        
+font-family:    Georgia;
+font-size:      1.5em;
+}
+
+
+ul {
+    list-style-type: circle;
+    font-family: "Arial";
+    font-size: 1.5em;
+}

@@ -1,0 +1,24 @@
+---
+title: "Research"
+output: html_document
+---
+
+---
+
+## Current Research
+
+My research interests are:
+
+* Human Facial signals comprising the following
+      * Morphology
+      * Complexion and
+      * Movement
+* Social Robotics
+
+---
+
+## Research Interests
+
+---
+
+## Conference Proceedings 
