@@ -1,5 +1,0 @@
----
-title: "footer"
-output: html_document
----
-<p>Contact me at:.</p>

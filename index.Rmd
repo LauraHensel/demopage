@@ -26,7 +26,7 @@ Robots*.
 I was born in Germany and lived there until I was 16. At that time I applied to and got into the [United World College Costa Rica](http://en.uwccostarica.org/). During my two years in Costa Rica, I was involved in a range of activities including:
 
 <ul>
-  <li>Leading and directing a musical which can be viewed [here](https://vimeo.com/38733243)</li>
+  <li>Leading and directing a musical which can be viewed [**here**](https://vimeo.com/38733243)</li>
   <li>Clowning (as Patch Adams) in a Rehabilitation Centre</li>
   <li>Spending a week in a Bri Bri village (indiginous people of Costa Rica)</li>
   <li>Cleaning and improving a slum in San José</li>
