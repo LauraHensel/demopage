@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: "My Research"
 output: html_document
 ---
 
@@ -7,18 +7,52 @@ output: html_document
 
 ## Current Research
 
-My research interests are:
+I am currently part of [Dr. Rachael Jack's](https://www.gla.ac.uk/schools/psychology/staff/rachaeljack/) team in her [social psychophysics lab](http://socialpsychophysics.inp.gla.ac.uk/index.php/home/). The lab aims to create an algebraic syntax of human facial signals for applications in social robots. 
 
-* Human Facial signals comprising the following
+* Facial signals are highly complex comprising:
       * Morphology
       * Complexion and
       * Movement
-* Social Robotics
+      
+Decoding which specific combination of signals communicate important messages is thus a complex task. 
 
----
+My own interests lie in what facial characteristics drive the favorable perception of social robots. Specifically, I am intending to investigate temporal parameters of dynamic facial signals and how they may change our view of social robots. 
 
-## Research Interests
+The lab owns a plastic robot head by Furhat robotics. This can be used to test how computational models of face signals transfer onto robots as well as how emotions produced by a realistic robot are perceived. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-FdHMzZ7CnY?rel=0" frameborder="0" allowfullscreen></iframe>
+
+<br><br>
 
 ---
 
 ## Conference Proceedings 
+
+
+Date     |Details
+--------|---------------------------------------------------------
+2017	  |*The Effects of Social Support on the Valence and Arousal Dimensions	of Emotional Memory*, British Psychological Society Undergraduate Conference Scotland (March, 25)
+2016    |*Chronotype and insomnia as independent factors associated with poor mental health in Hong Kong university students*, 23rd Congress of the European Sleep Research Society (September, 13-16)
+
+<br><br>
+
+---
+
+
+## Other Research Experience
+
+Date     |Details
+--------|---------------------------------------------------------
+2016    | Research Intern, Department of Psychology, Sleep Research Clinic & Lab, University of Hong Kong, HK
+
+
+<br><br>
+
+
+
+<footer>
+<p>Contact Information</p>
+<a href="https://twitter.com/LBHensel?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @LBHensel</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <p><a href="2039067h@student.gla.ac.uk">
+  2039067h@student.gla.ac.uk</a>.</p>
+</footer>

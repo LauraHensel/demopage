@@ -9,12 +9,14 @@ output:
     toc_depth: 2
     toc_float: yes
     lib_dir: site_libs
-    self_contained: FALSE
+    self_contained: no
 navbar:
   title: Laura. B. Hensel
   right:
   - text: About Me
     href: index.html
-  - text: Research Interests
+  - text: Research
     href: research.html
+  - text: Qualifications
+    href: quals.html
 

@@ -1,0 +1,49 @@
+---
+title: "Qualifications"
+output: html_document
+---
+
+
+---
+
+
+## Awards and Honours
+
+Date(s) |Award
+--------|---------------------------------------------------------
+2017-21	  |Collaborative Studentship Award (Scottish Graduate School of Social Science) 1+3 M.Sc. + Ph.D. position
+2017    |Distinguished First Prize, University of Glasgow
+2017    | Award for Best Social Science Presentation, BPS Undergraduate Conference Scotland
+2015    | German Academic Exchange Service (DAAD) - 1 Year Stipend for continued education abroad
+
+
+## Formal Education
+
+
+Date    |
+--------|---------------------------------------------------------
+2017	  |BSc (Hons, 1st Class) Psychology, University of Glasgow, School of Psychology Dissertation Project: 	The Effects of Social Support on the Valence and Arousal Dimensions of Emotional Memory, Supervisor: Prof. Edwin Robertson
+2012    |International Baccalaureate, United World College Costa Rica
+
+
+
+## Skills
+
+Software  |Details
+----------|---------------------------------------------------------
+MATLAB	  | I am using MATLAB exclusively for my Master thesis and will continue to use it for my Ph.D. Skills I am acquiring include data analysis and the creation of graphics 
+R         | I have used R both during my Bachelor (including for my dissertation) as well as during my Master
+SPSS      | I have used SPSS throughout my undergraduate degree
+Eprime    | I have created and run experiments using Eprime
+
+
+
+<br><br>
+
+
+<footer>
+<p>Contact Information</p>
+<a href="https://twitter.com/LBHensel?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @LBHensel</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <p><a href="2039067h@student.gla.ac.uk">
+  2039067h@student.gla.ac.uk</a>.</p>
+</footer>

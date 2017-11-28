@@ -5,14 +5,20 @@ output:
     toc: FALSE
 ---
 
+---
+
+<img src="images/Laura_picture.png" alt="laura" style="float:right;border:5px solid black;margin: 20px 20px;">
 I am a postgraduate student in the University of Glasgow's
-[Institute of Neuroscience and Psychology](http://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/). Here, I am currently completing my M.Sc. in Psychological Research Methods.
-I work with [Dr. Rachael Jack](https://www.gla.ac.uk/schools/psychology/staff/rachaeljack/) on establishing a syntax for facial expressions.
-
-<img src="images/Laura_picture.png" alt="LAURA" style="float:right;
-margin: 20px 20px;">
+[Institute of Neuroscience and Psychology](http://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/). Currently, I am completing my M.Sc. in Psychological Research Methods as part of a 1+3 M.Sc. and Ph.D. funded by the ESRC.  
+Here, I work with [Dr. Rachael E. Jack](https://www.gla.ac.uk/schools/psychology/staff/rachaeljack/) on a project entitled *Building a Culturally Flexible Model of Face Signalling for Social 
+Robots*.
 
 
+<br><br>
+
+
+
+---
 
 
 ### How I Got Here
@@ -26,5 +32,18 @@ I was born in Germany and lived there until I was 16. At that time I applied to 
   <li>Cleaning and improving a slum in San José</li>
 </ul>
 
+After my time in Costa Rica, I spent half a year as an intern in the practice of a GP in Germany before living in Barcelona for 4 months - to improve my Spanish. 
+
+In 2013, I started my B.Sc. in Psychology (Hons) at the [**University of Glasgow**](https://www.gla.ac.uk/) which I completed in 2017 with a First. During my Bachelor, I also had the opportunity to spend a year abroad at the [**University of Hong Kong**](https://www.hku.hk/). 
 
 
+<br><br>
+
+
+
+<footer>
+<p>Contact Information</p>
+<a href="https://twitter.com/LBHensel?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @LBHensel</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <p><a href="2039067h@student.gla.ac.uk">
+  2039067h@student.gla.ac.uk</a>.</p>
+</footer>
